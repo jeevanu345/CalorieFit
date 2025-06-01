@@ -42,11 +42,12 @@ A full-stack ready backend service built using Node.js, Express, and PostgreSQL 
 
 2.	Install dependencies:
 
-   npm install
+         npm install
 
 3.	Create a .env file in the root directory with the following content:
-4.	      PORT=3000
+4.       PORT=3000
          DATABASE_URL=postgres://youruser:yourpassword@localhost:5432/yourdbname
         JWT_SECRET=your_jwt_secret
           NODE_ENV=development
-5.	    
+5.	Start the server:
+6.	          npm start
