@@ -1,4 +1,4 @@
-# Nutrition Tracker API
+# CalorieFit
 
 A full-stack ready backend service built using Node.js, Express, and PostgreSQL that allows users to register, log in, update their profile, search for foods, and maintain a daily food log. JWT-based authentication ensures secure access to user-specific endpoints.
 
