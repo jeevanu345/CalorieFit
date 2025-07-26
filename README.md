@@ -37,7 +37,7 @@ A full-stack ready backend service built using Node.js, Express, and PostgreSQL 
 
    ```bash
    git clone https://github.com/yourusername/nutrition-tracker-api.git
-   cd nutrition-tracker-api
+   cd nutrition-tracker-api](https://github.com/jeevanu345/CalorieFit.git)
 
 
 2.	Install dependencies:
